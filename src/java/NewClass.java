@@ -11,5 +11,6 @@
 public class NewClass {
     
     private String nombre;
+    private String apellido;
     
 }
