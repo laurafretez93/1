@@ -10,4 +10,6 @@
  */
 public class NewClass {
     
+    private String nombre;
+    
 }
